@@ -23,7 +23,7 @@
 
 `$ python main.py https://lenta.ru/news/2019/01/18/proliv/ proliv.txt`
 
-Проверка была на сайте lenta.ru на следующем статье:
+Проверка была на сайте lenta.ru на следующей статье:
 ---
 https://lenta.ru/news/2019/01/18/proliv/
 
